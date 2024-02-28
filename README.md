@@ -1,6 +1,6 @@
 # Studies In C
 
-Repository for C++ algorithm/syntax testing.
+Repository for C algorithm/syntax testing.
 
 ## Summary
 
