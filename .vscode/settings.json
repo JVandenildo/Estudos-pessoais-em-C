@@ -1,0 +1,7 @@
+{
+	"editor.formatOnSave": true,
+	"C_Cpp.default.formattin": "clangFormat",
+	"cSpell.words": [
+		"devdocs"
+	]
+}
